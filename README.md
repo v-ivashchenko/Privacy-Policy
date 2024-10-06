@@ -6,6 +6,6 @@ This repository contains a collection of privacy policies for my apps and servic
 
 Each privacy policy is located in its own file within this repository. These documents outline the handling of user data, usage of personal information, and more, to ensure transparency and compliance with privacy regulations.
 
-If you have any questions or concerns regarding these policies, feel free to reach out.
+If you have any questions or concerns regarding these policies, feel free to reach out at feedback.algorithm@gmail.com.
 
 Thank you for your understanding!
