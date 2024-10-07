@@ -20,7 +20,7 @@ The App provides translation services using camera, photo, and real-time text re
 
 ## 3. Account and Data Privacy
 
-- By using the App, you agree to our Privacy Policy, which explains how we collect, use, and store your personal information. You can review the [Privacy Policy](https://github.com/v-ivashchenko/Privacy-Policy/blob/main/LiveTranslation.md).
+- By using the App, you agree to our Privacy Policy, which explains how we collect, use, and store your personal information. You can review the [Privacy Policy](https://github.com/v-ivashchenko/Privacy-Policy/blob/main/Live%20Translation/LiveTranslation%20-%20Privacy%20Policy.md).
 - You agree that we may collect and store information such as usage data and translations for the purpose of improving the App’s functionality and services.
 
 ## 4. Intellectual Property
