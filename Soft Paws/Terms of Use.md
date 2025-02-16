@@ -20,7 +20,7 @@ You may not:
 
 ## 4. Account and Data Privacy
 
-- By using the App, you agree to our Privacy Policy, which explains how we collect, use, and store your personal information. You can review the [Privacy Policy](https://github.com/v-ivashchenko/Privacy-Policy/blob/main/Soft%20Paws/Privacy%20Policy.md).
+- By using the App, you agree to our Privacy Policy, which explains how we collect, use, and store your personal information. You can review the [Privacy Policy](Privacy%20Policy.md).
 - You agree that we may collect and store information such as usage data and translations for the purpose of improving the App's functionality and services.
 
 ## 5. Intellectual Property
